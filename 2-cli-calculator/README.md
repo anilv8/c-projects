@@ -1,4 +1,5 @@
-This a Code::Blocks IDE project. Basic calculator on cli. Four arithmetic operations +,-,/,* used.
+This a Code::Blocks IDE project. Basic calculator on cli. Four arithmetic operations "+","-","/","*" used.
+
 To compile
 ```
 gcc cli-calculatır.c -o cli-calculator
