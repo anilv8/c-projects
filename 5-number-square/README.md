@@ -11,7 +11,7 @@ Example:
 1 2 3 4
 
 
-To compile
+To compile:
 ```
 gcc number-square.c -o number-square
 ```
