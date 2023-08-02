@@ -1,0 +1,4 @@
+# depslib dependency file v1.0
+1690988524 source:/home/anilv/c-projects/number-square/number-square.c
+	<stdio.h>
+
