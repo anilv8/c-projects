@@ -1,10 +1,15 @@
 This a Code::Blocks IDE project. Generating square printing sequence of numbers. The size of the sequence defined by user. The program do not print anything if the size of the sequence is larger than 40 and less than two.
 
 Example:
+
 1 2 3 4
+
 1 2 3 4
+
 1 2 3 4
+
 1 2 3 4
+
 
 To compile
 ```
