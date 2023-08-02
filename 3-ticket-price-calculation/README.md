@@ -7,11 +7,11 @@ Printing discount rate and discounted ticket price.
 
 To compile
 ```
-gcc mile-to-km.c -o mile-to-km
+gcc ticket-price-calculation.c -o ticket-price-calculation
 ```
 To execute:
 ```
-./mile-to-km
+./ticket-price-calculation
 ```
 Output:
 
